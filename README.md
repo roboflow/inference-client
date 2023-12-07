@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## 🐋 docker
 
-You can learn more about Roboflow Inference Docker Image build, pull and run in our [documentation](https://roboflow.github.io/inference/quickstart/docker/).
+You can also learn more about Roboflow Inference Docker Image build, pull and run in our [documentation](https://roboflow.github.io/inference/quickstart/docker/).
 
 - Run on x86 CPU:
 
